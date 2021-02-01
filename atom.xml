@@ -297,7 +297,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/YunYouJun/hexo-theme-yun&quot;&gt;https://github.com/YunYouJun/hexo-theme-yun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docs: &lt;a href=&quot;https://flboo.github.io/&quot;&gt;https://flboo.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Docs: &lt;a href=&quot;https://flboo.github.io/&quot;&gt;https://flboo.github.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Example: &lt;a href=&quot;https://www.yunyoujun.cn/&quot;&gt;https://www.yunyoujun.cn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;PV: &lt;a href=&quot;https://www.bilibili.com/video/BV17t4y1S7tz&quot;&gt;Strato - Hexo 主题「Yun」版本宣传 PV&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -402,13 +402,13 @@
     <category term="云游的小分享" scheme="https://www.yunyoujun.cn/categories/%E4%BA%91%E6%B8%B8%E7%9A%84%E5%B0%8F%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="评测" scheme="https://www.yunyoujun.cn/tags/%E8%AF%84%E6%B5%8B/"/>
-    
     <category term="Disqus" scheme="https://www.yunyoujun.cn/tags/Disqus/"/>
     
-    <category term="Gitalk" scheme="https://www.yunyoujun.cn/tags/Gitalk/"/>
-    
     <category term="Valine" scheme="https://www.yunyoujun.cn/tags/Valine/"/>
+    
+    <category term="评测" scheme="https://www.yunyoujun.cn/tags/%E8%AF%84%E6%B5%8B/"/>
+    
+    <category term="Gitalk" scheme="https://www.yunyoujun.cn/tags/Gitalk/"/>
     
   </entry>
   
